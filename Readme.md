@@ -140,7 +140,7 @@ client = Milvus(host='localhost', port='19585')
 
 Finally, the result of the ngnix log query is shown in the figure below, where you can see that nginx distributes the requests to different Milvus server
 
-![4](\4.png)
+![](4.png)
 
 
 
